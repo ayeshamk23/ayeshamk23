@@ -1,4 +1,4 @@
-#Aysha Mohammed Khaled
+
 
 # 💫 About Me:
 Hi, I'm Aysha, a UX/UI designer and software developer currently studying at 42 Abu Dhabi. I'm passionate about designing intuitive and user-friendly interfaces while also exploring the world of software development. At 42 Abu Dhabi, I'm delving into various projects, including C programming assignments, to broaden my technical skills. Additionally, I'm actively engaged in game development and look forward to sharing some of my projects with you soon. Let's embark on this journey of creativity and innovation together!<br><br>🌍 Based in United Arab Emirates<br>✉️ Feel free to reach out to me at ayesh3m.k@gmail.com<br>🤝 Open to collaborations on UX/UI design and software development projects. Let's create impactful and user-centric solutions!
